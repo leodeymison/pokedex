@@ -1,4 +1,5 @@
 # pokedex
+link: <a href='https://pokedex-vuejs-leodeymison.netlify.app/' target='_blank'>Pokedex web</a>
 
 ## Project setup
 ```
